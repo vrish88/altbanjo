@@ -33,6 +33,7 @@ measure line up.
    scroll.
 
 4. Use the additional notations:
+
         p   - pull off
         h   - hammer on
         /   - slide up
